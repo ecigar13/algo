@@ -60,7 +60,7 @@ simplejson==3.13.2
 singledispatch==3.4.0.3
 six==1.14.0
 typing==3.7.4.1
-urllib3==1.25.9
+urllib3==1.26.5
 uTidylib==0.3
 vboxapi==1.0
 virtualenv==20.0.10
